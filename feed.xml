@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>llmresources</title>
-    <link href="https://paullin.github.io/llmresources/feed.xml" rel="self" />
-    <link href="https://paullin.github.io/llmresources" />
+    <link href="https://llmresources.org/feed.xml" rel="self" />
+    <link href="https://llmresources.org" />
     <updated>2025-04-16T15:07:12+08:00</updated>
     <author>
         <name>Paul Lin</name>
     </author>
-    <id>https://paullin.github.io/llmresources</id>
+    <id>https://llmresources.org</id>
 
     <entry>
         <title>精选资讯</title>
         <author>
             <name>Paul Lin</name>
         </author>
-        <link href="https://paullin.github.io/llmresources/featured-article.html"/>
-        <id>https://paullin.github.io/llmresources/featured-article.html</id>
+        <link href="https://llmresources.org/featured-article.html"/>
+        <id>https://llmresources.org/featured-article.html</id>
             <category term="精选资讯"/>
 
         <updated>2025-04-16T14:07:04+08:00</updated>
@@ -23,7 +23,7 @@
                 <![CDATA[
                     
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://paullin.github.io/llmresources/media/posts/10/Tiny-people-and-giant-robot-head.jpg" height="5000" width="6950" alt="Cover of article"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://paullin.github.io/llmresources/media/posts/10/responsive/Tiny-people-and-giant-robot-head-xs.webp 300w ,https://paullin.github.io/llmresources/media/posts/10/responsive/Tiny-people-and-giant-robot-head-sm.webp 480w ,https://paullin.github.io/llmresources/media/posts/10/responsive/Tiny-people-and-giant-robot-head-md.webp 768w">
+      <img loading="lazy" src="https://llmresources.org/media/posts/10/Tiny-people-and-giant-robot-head.jpg" height="5000" width="6950" alt="Cover of article"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/10/responsive/Tiny-people-and-giant-robot-head-xs.webp 300w ,https://llmresources.org/media/posts/10/responsive/Tiny-people-and-giant-robot-head-sm.webp 480w ,https://llmresources.org/media/posts/10/responsive/Tiny-people-and-giant-robot-head-md.webp 768w">
       <figcaption>Picture</figcaption>
     </figure>
 
@@ -37,7 +37,7 @@
             <![CDATA[
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://paullin.github.io/llmresources/media/posts/10/Tiny-people-and-giant-robot-head.jpg" height="5000" width="6950" alt="Cover of article"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://paullin.github.io/llmresources/media/posts/10/responsive/Tiny-people-and-giant-robot-head-xs.webp 300w ,https://paullin.github.io/llmresources/media/posts/10/responsive/Tiny-people-and-giant-robot-head-sm.webp 480w ,https://paullin.github.io/llmresources/media/posts/10/responsive/Tiny-people-and-giant-robot-head-md.webp 768w">
+      <img loading="lazy" src="https://llmresources.org/media/posts/10/Tiny-people-and-giant-robot-head.jpg" height="5000" width="6950" alt="Cover of article"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/10/responsive/Tiny-people-and-giant-robot-head-xs.webp 300w ,https://llmresources.org/media/posts/10/responsive/Tiny-people-and-giant-robot-head-sm.webp 480w ,https://llmresources.org/media/posts/10/responsive/Tiny-people-and-giant-robot-head-md.webp 768w">
       <figcaption>Picture</figcaption>
     </figure>
 
@@ -73,8 +73,8 @@
         <author>
             <name>Paul Lin</name>
         </author>
-        <link href="https://paullin.github.io/llmresources/llm-latest.html"/>
-        <id>https://paullin.github.io/llmresources/llm-latest.html</id>
+        <link href="https://llmresources.org/llm-latest.html"/>
+        <id>https://llmresources.org/llm-latest.html</id>
             <category term="大模型进展"/>
             <category term="全站精选"/>
 
@@ -83,7 +83,7 @@
                 <![CDATA[
                     
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://paullin.github.io/llmresources/media/posts/9/7127963.jpg" height="2000" width="3000" alt="Cover of article"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://paullin.github.io/llmresources/media/posts/9/responsive/7127963-xs.webp 300w ,https://paullin.github.io/llmresources/media/posts/9/responsive/7127963-sm.webp 480w ,https://paullin.github.io/llmresources/media/posts/9/responsive/7127963-md.webp 768w">
+      <img loading="lazy" src="https://llmresources.org/media/posts/9/7127963.jpg" height="2000" width="3000" alt="Cover of article"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/9/responsive/7127963-xs.webp 300w ,https://llmresources.org/media/posts/9/responsive/7127963-sm.webp 480w ,https://llmresources.org/media/posts/9/responsive/7127963-md.webp 768w">
       <figcaption>Picture</figcaption>
     </figure>
 
@@ -97,7 +97,7 @@
             <![CDATA[
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://paullin.github.io/llmresources/media/posts/9/7127963.jpg" height="2000" width="3000" alt="Cover of article"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://paullin.github.io/llmresources/media/posts/9/responsive/7127963-xs.webp 300w ,https://paullin.github.io/llmresources/media/posts/9/responsive/7127963-sm.webp 480w ,https://paullin.github.io/llmresources/media/posts/9/responsive/7127963-md.webp 768w">
+      <img loading="lazy" src="https://llmresources.org/media/posts/9/7127963.jpg" height="2000" width="3000" alt="Cover of article"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/9/responsive/7127963-xs.webp 300w ,https://llmresources.org/media/posts/9/responsive/7127963-sm.webp 480w ,https://llmresources.org/media/posts/9/responsive/7127963-md.webp 768w">
       <figcaption>Picture</figcaption>
     </figure>
 
@@ -133,8 +133,8 @@
         <author>
             <name>Paul Lin</name>
         </author>
-        <link href="https://paullin.github.io/llmresources/agent-tool.html"/>
-        <id>https://paullin.github.io/llmresources/agent-tool.html</id>
+        <link href="https://llmresources.org/agent-tool.html"/>
+        <id>https://llmresources.org/agent-tool.html</id>
             <category term="Agent 工具"/>
 
         <updated>2025-04-16T14:07:04+08:00</updated>
@@ -142,7 +142,7 @@
                 <![CDATA[
                     
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://paullin.github.io/llmresources/media/posts/8/6247537.jpg" height="2000" width="3000" alt="Cover of article"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://paullin.github.io/llmresources/media/posts/8/responsive/6247537-xs.webp 300w ,https://paullin.github.io/llmresources/media/posts/8/responsive/6247537-sm.webp 480w ,https://paullin.github.io/llmresources/media/posts/8/responsive/6247537-md.webp 768w">
+      <img loading="lazy" src="https://llmresources.org/media/posts/8/6247537.jpg" height="2000" width="3000" alt="Cover of article"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/8/responsive/6247537-xs.webp 300w ,https://llmresources.org/media/posts/8/responsive/6247537-sm.webp 480w ,https://llmresources.org/media/posts/8/responsive/6247537-md.webp 768w">
       <figcaption>Picture</figcaption>
     </figure>
 
@@ -156,7 +156,7 @@
             <![CDATA[
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://paullin.github.io/llmresources/media/posts/8/6247537.jpg" height="2000" width="3000" alt="Cover of article"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://paullin.github.io/llmresources/media/posts/8/responsive/6247537-xs.webp 300w ,https://paullin.github.io/llmresources/media/posts/8/responsive/6247537-sm.webp 480w ,https://paullin.github.io/llmresources/media/posts/8/responsive/6247537-md.webp 768w">
+      <img loading="lazy" src="https://llmresources.org/media/posts/8/6247537.jpg" height="2000" width="3000" alt="Cover of article"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/8/responsive/6247537-xs.webp 300w ,https://llmresources.org/media/posts/8/responsive/6247537-sm.webp 480w ,https://llmresources.org/media/posts/8/responsive/6247537-md.webp 768w">
       <figcaption>Picture</figcaption>
     </figure>
 
@@ -192,8 +192,8 @@
         <author>
             <name>Paul Lin</name>
         </author>
-        <link href="https://paullin.github.io/llmresources/mcp-server.html"/>
-        <id>https://paullin.github.io/llmresources/mcp-server.html</id>
+        <link href="https://llmresources.org/mcp-server.html"/>
+        <id>https://llmresources.org/mcp-server.html</id>
             <category term="MCP 服务器"/>
 
         <updated>2025-04-16T11:12:10+08:00</updated>
@@ -201,7 +201,7 @@
                 <![CDATA[
                     
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://paullin.github.io/llmresources/media/posts/7/2304.i039.016.F.m004.c9.AI-generated-art-AI-powered-content-creation-isometric.jpg" height="5001" width="6101" alt="Cover of article"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://paullin.github.io/llmresources/media/posts/7/responsive/2304.i039.016.F.m004.c9.AI-generated-art-AI-powered-content-creation-isometric-xs.webp 300w ,https://paullin.github.io/llmresources/media/posts/7/responsive/2304.i039.016.F.m004.c9.AI-generated-art-AI-powered-content-creation-isometric-sm.webp 480w ,https://paullin.github.io/llmresources/media/posts/7/responsive/2304.i039.016.F.m004.c9.AI-generated-art-AI-powered-content-creation-isometric-md.webp 768w">
+      <img loading="lazy" src="https://llmresources.org/media/posts/7/2304.i039.016.F.m004.c9.AI-generated-art-AI-powered-content-creation-isometric.jpg" height="5001" width="6101" alt="Cover of article"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/7/responsive/2304.i039.016.F.m004.c9.AI-generated-art-AI-powered-content-creation-isometric-xs.webp 300w ,https://llmresources.org/media/posts/7/responsive/2304.i039.016.F.m004.c9.AI-generated-art-AI-powered-content-creation-isometric-sm.webp 480w ,https://llmresources.org/media/posts/7/responsive/2304.i039.016.F.m004.c9.AI-generated-art-AI-powered-content-creation-isometric-md.webp 768w">
       <figcaption>Picture</figcaption>
     </figure>
 
@@ -215,7 +215,7 @@
             <![CDATA[
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://paullin.github.io/llmresources/media/posts/7/2304.i039.016.F.m004.c9.AI-generated-art-AI-powered-content-creation-isometric.jpg" height="5001" width="6101" alt="Cover of article"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://paullin.github.io/llmresources/media/posts/7/responsive/2304.i039.016.F.m004.c9.AI-generated-art-AI-powered-content-creation-isometric-xs.webp 300w ,https://paullin.github.io/llmresources/media/posts/7/responsive/2304.i039.016.F.m004.c9.AI-generated-art-AI-powered-content-creation-isometric-sm.webp 480w ,https://paullin.github.io/llmresources/media/posts/7/responsive/2304.i039.016.F.m004.c9.AI-generated-art-AI-powered-content-creation-isometric-md.webp 768w">
+      <img loading="lazy" src="https://llmresources.org/media/posts/7/2304.i039.016.F.m004.c9.AI-generated-art-AI-powered-content-creation-isometric.jpg" height="5001" width="6101" alt="Cover of article"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/7/responsive/2304.i039.016.F.m004.c9.AI-generated-art-AI-powered-content-creation-isometric-xs.webp 300w ,https://llmresources.org/media/posts/7/responsive/2304.i039.016.F.m004.c9.AI-generated-art-AI-powered-content-creation-isometric-sm.webp 480w ,https://llmresources.org/media/posts/7/responsive/2304.i039.016.F.m004.c9.AI-generated-art-AI-powered-content-creation-isometric-md.webp 768w">
       <figcaption>Picture</figcaption>
     </figure>
 
@@ -251,8 +251,8 @@
         <author>
             <name>Paul Lin</name>
         </author>
-        <link href="https://paullin.github.io/llmresources/agent-tutorail.html"/>
-        <id>https://paullin.github.io/llmresources/agent-tutorail.html</id>
+        <link href="https://llmresources.org/agent-tutorail.html"/>
+        <id>https://llmresources.org/agent-tutorail.html</id>
             <category term="Agent 教程"/>
 
         <updated>2025-04-16T11:12:10+08:00</updated>
@@ -260,7 +260,7 @@
                 <![CDATA[
                     
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://paullin.github.io/llmresources/media/posts/6/3149263.jpg" height="2000" width="3000" alt="Cover of article"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://paullin.github.io/llmresources/media/posts/6/responsive/3149263-xs.webp 300w ,https://paullin.github.io/llmresources/media/posts/6/responsive/3149263-sm.webp 480w ,https://paullin.github.io/llmresources/media/posts/6/responsive/3149263-md.webp 768w">
+      <img loading="lazy" src="https://llmresources.org/media/posts/6/3149263.jpg" height="2000" width="3000" alt="Cover of article"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/6/responsive/3149263-xs.webp 300w ,https://llmresources.org/media/posts/6/responsive/3149263-sm.webp 480w ,https://llmresources.org/media/posts/6/responsive/3149263-md.webp 768w">
       <figcaption>Picture</figcaption>
     </figure>
 
@@ -274,7 +274,7 @@
             <![CDATA[
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://paullin.github.io/llmresources/media/posts/6/3149263.jpg" height="2000" width="3000" alt="Cover of article"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://paullin.github.io/llmresources/media/posts/6/responsive/3149263-xs.webp 300w ,https://paullin.github.io/llmresources/media/posts/6/responsive/3149263-sm.webp 480w ,https://paullin.github.io/llmresources/media/posts/6/responsive/3149263-md.webp 768w">
+      <img loading="lazy" src="https://llmresources.org/media/posts/6/3149263.jpg" height="2000" width="3000" alt="Cover of article"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/6/responsive/3149263-xs.webp 300w ,https://llmresources.org/media/posts/6/responsive/3149263-sm.webp 480w ,https://llmresources.org/media/posts/6/responsive/3149263-md.webp 768w">
       <figcaption>Picture</figcaption>
     </figure>
 
@@ -310,8 +310,8 @@
         <author>
             <name>Paul Lin</name>
         </author>
-        <link href="https://paullin.github.io/llmresources/mcp-tutorial.html"/>
-        <id>https://paullin.github.io/llmresources/mcp-tutorial.html</id>
+        <link href="https://llmresources.org/mcp-tutorial.html"/>
+        <id>https://llmresources.org/mcp-tutorial.html</id>
             <category term="MCP 教程"/>
 
         <updated>2025-04-16T11:12:05+08:00</updated>
@@ -319,7 +319,7 @@
                 <![CDATA[
                     
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://paullin.github.io/llmresources/media/posts/5/8252.jpg" height="5000" width="6795" alt="Cover of article"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://paullin.github.io/llmresources/media/posts/5/responsive/8252-xs.webp 300w ,https://paullin.github.io/llmresources/media/posts/5/responsive/8252-sm.webp 480w ,https://paullin.github.io/llmresources/media/posts/5/responsive/8252-md.webp 768w">
+      <img loading="lazy" src="https://llmresources.org/media/posts/5/8252.jpg" height="5000" width="6795" alt="Cover of article"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/5/responsive/8252-xs.webp 300w ,https://llmresources.org/media/posts/5/responsive/8252-sm.webp 480w ,https://llmresources.org/media/posts/5/responsive/8252-md.webp 768w">
       <figcaption>Picture</figcaption>
     </figure>
 
@@ -333,7 +333,7 @@
             <![CDATA[
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://paullin.github.io/llmresources/media/posts/5/8252.jpg" height="5000" width="6795" alt="Cover of article"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://paullin.github.io/llmresources/media/posts/5/responsive/8252-xs.webp 300w ,https://paullin.github.io/llmresources/media/posts/5/responsive/8252-sm.webp 480w ,https://paullin.github.io/llmresources/media/posts/5/responsive/8252-md.webp 768w">
+      <img loading="lazy" src="https://llmresources.org/media/posts/5/8252.jpg" height="5000" width="6795" alt="Cover of article"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/5/responsive/8252-xs.webp 300w ,https://llmresources.org/media/posts/5/responsive/8252-sm.webp 480w ,https://llmresources.org/media/posts/5/responsive/8252-md.webp 768w">
       <figcaption>Picture</figcaption>
     </figure>
 
@@ -369,8 +369,8 @@
         <author>
             <name>Paul Lin</name>
         </author>
-        <link href="https://paullin.github.io/llmresources/gen-ai-getting-start.html"/>
-        <id>https://paullin.github.io/llmresources/gen-ai-getting-start.html</id>
+        <link href="https://llmresources.org/gen-ai-getting-start.html"/>
+        <id>https://llmresources.org/gen-ai-getting-start.html</id>
             <category term="生成式 AI 导论"/>
             <category term="全站精选"/>
 
@@ -379,7 +379,7 @@
                 <![CDATA[
                     
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://paullin.github.io/llmresources/media/posts/4/155Z_2305.w017.n001.52B.p12.52.jpg" height="3334" width="5000" alt="Cover of article"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://paullin.github.io/llmresources/media/posts/4/responsive/155Z_2305.w017.n001.52B.p12.52-xs.webp 300w ,https://paullin.github.io/llmresources/media/posts/4/responsive/155Z_2305.w017.n001.52B.p12.52-sm.webp 480w ,https://paullin.github.io/llmresources/media/posts/4/responsive/155Z_2305.w017.n001.52B.p12.52-md.webp 768w">
+      <img loading="lazy" src="https://llmresources.org/media/posts/4/155Z_2305.w017.n001.52B.p12.52.jpg" height="3334" width="5000" alt="Cover of article"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/4/responsive/155Z_2305.w017.n001.52B.p12.52-xs.webp 300w ,https://llmresources.org/media/posts/4/responsive/155Z_2305.w017.n001.52B.p12.52-sm.webp 480w ,https://llmresources.org/media/posts/4/responsive/155Z_2305.w017.n001.52B.p12.52-md.webp 768w">
       <figcaption>Picture</figcaption>
     </figure>
 
@@ -393,7 +393,7 @@
             <![CDATA[
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://paullin.github.io/llmresources/media/posts/4/155Z_2305.w017.n001.52B.p12.52.jpg" height="3334" width="5000" alt="Cover of article"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://paullin.github.io/llmresources/media/posts/4/responsive/155Z_2305.w017.n001.52B.p12.52-xs.webp 300w ,https://paullin.github.io/llmresources/media/posts/4/responsive/155Z_2305.w017.n001.52B.p12.52-sm.webp 480w ,https://paullin.github.io/llmresources/media/posts/4/responsive/155Z_2305.w017.n001.52B.p12.52-md.webp 768w">
+      <img loading="lazy" src="https://llmresources.org/media/posts/4/155Z_2305.w017.n001.52B.p12.52.jpg" height="3334" width="5000" alt="Cover of article"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/4/responsive/155Z_2305.w017.n001.52B.p12.52-xs.webp 300w ,https://llmresources.org/media/posts/4/responsive/155Z_2305.w017.n001.52B.p12.52-sm.webp 480w ,https://llmresources.org/media/posts/4/responsive/155Z_2305.w017.n001.52B.p12.52-md.webp 768w">
       <figcaption>Picture</figcaption>
     </figure>
 
