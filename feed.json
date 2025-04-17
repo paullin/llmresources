@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://llmresources.org/genai-tutorial/",
+            "url": "https://llmresources.org/genai-tutorial/",
+            "title": "系列教程：生成式 AI 导论",
+            "summary": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://llmresources.org/media/posts/17/GenAI-cover.jpg\" height=\"4167\" width=\"5210\" alt=\"GenAI | 生成式AI\"  sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://llmresources.org/media/posts/17/responsive/GenAI-cover-xs.webp 300w ,https://llmresources.org/media/posts/17/responsive/GenAI-cover-sm.webp 480w ,https://llmresources.org/media/posts/17/responsive/GenAI-cover-md.webp 768w\">\n      <figcaption>图片来源：freepik.com</figcaption>\n    </figure>\n\n  <p>\n    摘要：该系列来源于油管上同名热门视频《生成式 AI 导论 (2024)》的文字稿，教授者是台湾计算机科学家、国立台湾大学电机工程学系教授李宏毅。课程内容深入浅出，幽默风趣，将很多艰深晦涩的专业名词用大白话讲得明明白白。同时提供了很多参考学习的论文。实为学习 AI 的最佳入门材料。\n  </p>\n",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://llmresources.org/media/posts/17/GenAI-cover.jpg\" height=\"4167\" width=\"5210\" alt=\"GenAI | 生成式AI\"  sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://llmresources.org/media/posts/17/responsive/GenAI-cover-xs.webp 300w ,https://llmresources.org/media/posts/17/responsive/GenAI-cover-sm.webp 480w ,https://llmresources.org/media/posts/17/responsive/GenAI-cover-md.webp 768w\">\n      <figcaption>图片来源：freepik.com</figcaption>\n    </figure>\n\n  <p>\n    摘要：该系列来源于油管上同名热门视频《生成式 AI 导论 (2024)》的文字稿，教授者是台湾计算机科学家、国立台湾大学电机工程学系教授李宏毅。课程内容深入浅出，幽默风趣，将很多艰深晦涩的专业名词用大白话讲得明明白白。同时提供了很多参考学习的论文。实为学习 AI 的最佳入门材料。\n  </p>\n\n\n  <div class=\"post__toc\">\n    <h3>目录</h3>\n    <ul>\n      <li><a href=\"#xi-lie-wen-zhang\">系列文章</a></li><li><a href=\"#can-kao-lun-wen\">参考论文</a></li><li><a href=\"#shu-yu-biao\">术语表</a></li><li><a href=\"#ke-jian-xia-zai\">课件下载</a></li>\n    </ul>\n  </div>\n  \n\n    <h2 id=\"xi-lie-wen-zhang\">\n      系列文章\n    </h2>\n\n  <p>\n    <a href=\"https://llmresources.org/what-is-generative-ai/\" target=\"_blank\">第一节 生成式 AI 是什么？</a>\n  </p>\n<hr class=\"separator separator--dots\" />\n\n  <p>\n    <strong>版权声明</strong>：本文内容来源于网上同名系列视频《生成式 AI 导论 (2024)》，经大模型翻译和人工校对修正。内容版权归属李宏毅老师所有。如需转载请保留来源链接 (https://llmresources.org)。\n  </p>\n<hr class=\"separator separator--dots\" />\n\n    <h2 id=\"can-kao-lun-wen\">\n      参考论文\n    </h2>\n\n  <ul>\n    <li>无</li>\n  </ul>\n\n    <h2 id=\"shu-yu-biao\">\n      术语表\n    </h2>\n\n  <ul>\n    <li>该系列所有涉及到的术语表，请访问<a href=\"https://llmresources.org/terminology-list/\" target=\"_blank\">《术语表》</a>页面。</li>\n  </ul>\n\n    <h2 id=\"ke-jian-xia-zai\">\n      课件下载\n    </h2>\n\n  <ul>\n    <li><a href=\"https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0223/0223_intro_gai.pdf\"  class=\"extlink extlink-icon-1\"  rel=\"nofollow noopener\">第一节课课件</a></li>\n  </ul>",
+            "author": {
+                "name": "Paul Lin"
+            },
+            "tags": [
+                   "生成式 AI 导论",
+                   "全站精选"
+            ],
+            "date_published": "2025-04-17T11:38:02+08:00",
+            "date_modified": "2025-04-17T12:00:08+08:00"
+        },
+        {
             "id": "https://llmresources.org/terminology-list/",
             "url": "https://llmresources.org/terminology-list/",
             "title": "术语表",
