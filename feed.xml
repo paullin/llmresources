@@ -3,7 +3,7 @@
     <title>llmresources</title>
     <link href="https://llmresources.org/feed.xml" rel="self" />
     <link href="https://llmresources.org" />
-    <updated>2025-04-18T17:39:36+08:00</updated>
+    <updated>2025-04-18T21:09:37+08:00</updated>
     <author>
         <name>Paul Lin</name>
     </author>
@@ -24,7 +24,7 @@
                 <![CDATA[
                     
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://llmresources.org/media/posts/17/AI.jpg" height="4167" width="5210" alt="GenAI | 生成式AI"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/17/responsive/AI-xs.webp 300w ,https://llmresources.org/media/posts/17/responsive/AI-sm.webp 480w ,https://llmresources.org/media/posts/17/responsive/AI-md.webp 768w">
+      <img loading="lazy" src="https://llmresources.org/media/posts/17/GenAi-tutorial-2.webp" height="4167" width="5210" alt="GenAI | 生成式AI"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/17/responsive/GenAi-tutorial-2-xs.webp 300w ,https://llmresources.org/media/posts/17/responsive/GenAi-tutorial-2-sm.webp 480w ,https://llmresources.org/media/posts/17/responsive/GenAi-tutorial-2-md.webp 768w">
       <figcaption>图片来源：freepik.com</figcaption>
     </figure>
 
@@ -38,7 +38,7 @@
             <![CDATA[
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://llmresources.org/media/posts/17/AI.jpg" height="4167" width="5210" alt="GenAI | 生成式AI"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/17/responsive/AI-xs.webp 300w ,https://llmresources.org/media/posts/17/responsive/AI-sm.webp 480w ,https://llmresources.org/media/posts/17/responsive/AI-md.webp 768w">
+      <img decoding="async" loading="lazy" src="https://llmresources.org/media/posts/17/GenAi-tutorial-2.webp" height="4167" width="5210" alt="GenAI | 生成式AI"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/17/responsive/GenAi-tutorial-2-xs.webp 300w ,https://llmresources.org/media/posts/17/responsive/GenAi-tutorial-2-sm.webp 480w ,https://llmresources.org/media/posts/17/responsive/GenAi-tutorial-2-md.webp 768w">
       <figcaption>图片来源：freepik.com</figcaption>
     </figure>
 
@@ -113,7 +113,7 @@
                 <![CDATA[
                     
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://llmresources.org/media/posts/16/glossary-2.jpg" height="2000" width="3000" alt="Glossary | 术语表"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/16/responsive/glossary-2-xs.webp 300w ,https://llmresources.org/media/posts/16/responsive/glossary-2-sm.webp 480w ,https://llmresources.org/media/posts/16/responsive/glossary-2-md.webp 768w">
+      <img loading="lazy" src="https://llmresources.org/media/posts/16/glossary.webp" height="600" width="900" alt="Glossary | 术语表"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/16/responsive/glossary-xs.webp 300w ,https://llmresources.org/media/posts/16/responsive/glossary-sm.webp 480w ,https://llmresources.org/media/posts/16/responsive/glossary-md.webp 768w">
       <figcaption>图片来源：freepik.com</figcaption>
     </figure>
 
@@ -131,7 +131,7 @@
             <![CDATA[
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://llmresources.org/media/posts/16/glossary-2.jpg" height="2000" width="3000" alt="Glossary | 术语表"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/16/responsive/glossary-2-xs.webp 300w ,https://llmresources.org/media/posts/16/responsive/glossary-2-sm.webp 480w ,https://llmresources.org/media/posts/16/responsive/glossary-2-md.webp 768w">
+      <img decoding="async" loading="lazy" src="https://llmresources.org/media/posts/16/glossary.webp" height="600" width="900" alt="Glossary | 术语表"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/16/responsive/glossary-xs.webp 300w ,https://llmresources.org/media/posts/16/responsive/glossary-sm.webp 480w ,https://llmresources.org/media/posts/16/responsive/glossary-md.webp 768w">
       <figcaption>图片来源：freepik.com</figcaption>
     </figure>
 
@@ -280,7 +280,7 @@
                 <![CDATA[
                     
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://llmresources.org/media/posts/13/ch01-cover.jpg" height="3335" width="5001" alt="人工智能"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/ch01-cover-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/ch01-cover-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/ch01-cover-md.webp 768w">
+      <img loading="lazy" src="https://llmresources.org/media/posts/13/cover.webp" height="1001" width="1500" alt="人工智能"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/cover-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/cover-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/cover-md.webp 768w">
       <figcaption>来源：freepik.com</figcaption>
     </figure>
 
@@ -294,7 +294,7 @@
             <![CDATA[
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://llmresources.org/media/posts/13/ch01-cover.jpg" height="3335" width="5001" alt="人工智能"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/ch01-cover-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/ch01-cover-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/ch01-cover-md.webp 768w">
+      <img decoding="async" loading="lazy" src="https://llmresources.org/media/posts/13/cover.webp" height="1001" width="1500" alt="人工智能"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/cover-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/cover-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/cover-md.webp 768w">
       <figcaption>来源：freepik.com</figcaption>
     </figure>
 
@@ -320,7 +320,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-2.jpg" height="2250" width="4000" alt="人工智能"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-2-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-2-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-2-md.webp 768w">
+      <img decoding="async" loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-2.jpg" height="2250" width="4000" alt="人工智能"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-2-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-2-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-2-md.webp 768w">
       <figcaption> 人工智能是一种目标</figcaption>
     </figure>
 
@@ -337,7 +337,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-3.jpg" height="2250" width="4000" alt="GenAI | 生成式人工智能"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-3-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-3-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-3-md.webp 768w">
+      <img decoding="async" loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-3.jpg" height="2250" width="4000" alt="GenAI | 生成式人工智能"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-3-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-3-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-3-md.webp 768w">
       <figcaption>生成式 AI 的定义</figcaption>
     </figure>
 
@@ -346,7 +346,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-4.jpg" height="2250" width="4000" alt="GenAI | 生成式人工智能的特点"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-4-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-4-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-4-md.webp 768w">
+      <img decoding="async" loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-4.jpg" height="2250" width="4000" alt="GenAI | 生成式人工智能的特点"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-4-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-4-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-4-md.webp 768w">
       <figcaption>生成式 AI 的特点</figcaption>
     </figure>
 
@@ -363,7 +363,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-5.jpg" height="2250" width="4000" alt="GenAI | 生成式人工智能 | 分类 | Classification"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-5-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-5-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-5-md.webp 768w">
+      <img decoding="async" loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-5.jpg" height="2250" width="4000" alt="GenAI | 生成式人工智能 | 分类 | Classification"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-5-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-5-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-5-md.webp 768w">
       <figcaption>分类不属于生成式 AI</figcaption>
     </figure>
 
@@ -380,7 +380,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-6.jpg" height="2250" width="4000" alt="人工智能 vs 生成式人工智能"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-6-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-6-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-6-md.webp 768w">
+      <img decoding="async" loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-6.jpg" height="2250" width="4000" alt="人工智能 vs 生成式人工智能"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-6-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-6-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-6-md.webp 768w">
       <figcaption>人工智能 vs 生成式人工智能</figcaption>
     </figure>
 
@@ -389,7 +389,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-7.jpg" height="2250" width="4000" alt="Machine Learning | 机器学习"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-7-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-7-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-7-md.webp 768w">
+      <img decoding="async" loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-7.jpg" height="2250" width="4000" alt="Machine Learning | 机器学习"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-7-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-7-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-7-md.webp 768w">
       <figcaption>机器学习的概念</figcaption>
     </figure>
 
@@ -414,7 +414,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-8.jpg" height="2250" width="4000" alt="Machine Learning | Training | Inference | 训练 | 推理"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-8-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-8-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-8-md.webp 768w">
+      <img decoding="async" loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-8.jpg" height="2250" width="4000" alt="Machine Learning | Training | Inference | 训练 | 推理"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-8-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-8-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-8-md.webp 768w">
       <figcaption>机器学习中的训练与推理</figcaption>
     </figure>
 
@@ -435,7 +435,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-9.jpg" height="2250" width="4000" alt="Deep Learning | 深度学习"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-9-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-9-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-9-md.webp 768w">
+      <img decoding="async" loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-9.jpg" height="2250" width="4000" alt="Deep Learning | 深度学习"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-9-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-9-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-9-md.webp 768w">
       <figcaption>深度学习是一种机器学习技术</figcaption>
     </figure>
 
@@ -444,7 +444,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-10.jpg" height="2250" width="4000" alt="(生成式)人工智能与机器学习的关系"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-10-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-10-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-10-md.webp 768w">
+      <img decoding="async" loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-10.jpg" height="2250" width="4000" alt="(生成式)人工智能与机器学习的关系"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-10-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-10-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-10-md.webp 768w">
       <figcaption>(生成式)人工智能与机器学习的关系</figcaption>
     </figure>
 
@@ -457,7 +457,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-11.jpg" height="2250" width="4000" alt="简化版的概念理解"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-11-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-11-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-11-md.webp 768w">
+      <img decoding="async" loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-11.jpg" height="2250" width="4000" alt="简化版的概念理解"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-11-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-11-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-11-md.webp 768w">
       <figcaption>简化版的概念理解</figcaption>
     </figure>
 
@@ -470,7 +470,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-12.jpg" height="2250" width="4000" alt="Transformer "  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-12-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-12-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-12-md.webp 768w">
+      <img decoding="async" loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-12.jpg" height="2250" width="4000" alt="Transformer "  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-12-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-12-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-12-md.webp 768w">
       <figcaption>Transformer 模型</figcaption>
     </figure>
 
@@ -487,7 +487,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-13.jpg" height="2250" width="4000" alt="大模型的输入与输出"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-13-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-13-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-13-md.webp 768w">
+      <img decoding="async" loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-13.jpg" height="2250" width="4000" alt="大模型的输入与输出"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-13-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-13-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-13-md.webp 768w">
       <figcaption>大模型的输入与输出</figcaption>
     </figure>
 
@@ -496,7 +496,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-14.jpg" height="2250" width="4000" alt="AI 画图也是函数求解的过程"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-14-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-14-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-14-md.webp 768w">
+      <img decoding="async" loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-14.jpg" height="2250" width="4000" alt="AI 画图也是函数求解的过程"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-14-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-14-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-14-md.webp 768w">
       <figcaption>AI 画图也是函数求解的过程</figcaption>
     </figure>
 
@@ -505,7 +505,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-15.jpg" height="2250" width="4000" alt="生成式人工智能的进步"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-15-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-15-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-15-md.webp 768w">
+      <img decoding="async" loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-15.jpg" height="2250" width="4000" alt="生成式人工智能的进步"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-15-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-15-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-15-md.webp 768w">
       <figcaption>生成式人工智能的进步</figcaption>
     </figure>
 
@@ -522,7 +522,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-16.jpg" height="2250" width="4000" alt="生成式人工智能的重点是「创造」"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-16-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-16-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-16-md.webp 768w">
+      <img decoding="async" loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-16.jpg" height="2250" width="4000" alt="生成式人工智能的重点是「创造」"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-16-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-16-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-16-md.webp 768w">
       <figcaption>生成式人工智能的重点是「创造」</figcaption>
     </figure>
 
@@ -539,7 +539,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-17.jpg" height="2250" width="4000" alt="大模型完成任务靠的是「文字接龙」"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-17-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-17-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-17-md.webp 768w">
+      <img decoding="async" loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-17.jpg" height="2250" width="4000" alt="大模型完成任务靠的是「文字接龙」"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-17-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-17-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-17-md.webp 768w">
       <figcaption>大模型完成任务靠的是「文字接龙」</figcaption>
     </figure>
 
@@ -552,7 +552,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-18.jpg" height="2250" width="4000" alt="语言模型"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-18-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-18-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-18-md.webp 768w">
+      <img decoding="async" loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-18.jpg" height="2250" width="4000" alt="语言模型"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-18-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-18-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-18-md.webp 768w">
       <figcaption>语言模型</figcaption>
     </figure>
 
@@ -561,7 +561,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-19.jpg" height="2250" width="4000" alt="Autoregressive Generation | 自回归生成"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-19-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-19-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-19-md.webp 768w">
+      <img decoding="async" loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-19.jpg" height="2250" width="4000" alt="Autoregressive Generation | 自回归生成"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-19-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-19-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-19-md.webp 768w">
       <figcaption>Autoregressive Generation</figcaption>
     </figure>
 
@@ -570,7 +570,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-20.jpg" height="2250" width="4000" alt="生成图像的过程也是用 Autoregressive Generation"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-20-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-20-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-20-md.webp 768w">
+      <img decoding="async" loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-20.jpg" height="2250" width="4000" alt="生成图像的过程也是用 Autoregressive Generation"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-20-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-20-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-20-md.webp 768w">
       <figcaption>生成图像的过程也是用 Autoregressive Generation</figcaption>
     </figure>
 
@@ -579,7 +579,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-21.jpg" height="2250" width="4000" alt="生成式人工智能由来已久"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-21-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-21-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-21-md.webp 768w">
+      <img decoding="async" loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-21.jpg" height="2250" width="4000" alt="生成式人工智能由来已久"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-21-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-21-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-21-md.webp 768w">
       <figcaption>生成式人工智能由来已久</figcaption>
     </figure>
 
@@ -592,7 +592,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-22.jpg" height="2250" width="4000" alt="谷歌翻译也是一种生成式人工智能"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-22-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-22-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-22-md.webp 768w">
+      <img decoding="async" loading="lazy" src="https://llmresources.org/media/posts/13/chapter01-22.jpg" height="2250" width="4000" alt="谷歌翻译也是一种生成式人工智能"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/13/responsive/chapter01-22-xs.webp 300w ,https://llmresources.org/media/posts/13/responsive/chapter01-22-sm.webp 480w ,https://llmresources.org/media/posts/13/responsive/chapter01-22-md.webp 768w">
       <figcaption>谷歌翻译也是一种生成式人工智能</figcaption>
     </figure>
 
