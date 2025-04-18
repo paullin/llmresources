@@ -6,109 +6,109 @@
 </url>
 <url>
 <loc>https://llmresources.org/genai-tutorial/</loc>
-<lastmod>2025-04-17T21:43:22+08:00</lastmod>
+<lastmod>2025-04-18T17:39:36+08:00</lastmod>
 <image:image>
-<image:loc>https://llmresources.org/media/posts/17/Feng-Mian-Tu.jpg</image:loc>
+<image:loc>https://llmresources.org/media/posts/17/AI.jpg</image:loc>
 <image:title><![CDATA[GenAI | 生成式AI]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://llmresources.org/terminology-list/</loc>
-<lastmod>2025-04-17T11:01:00+08:00</lastmod>
+<loc>https://llmresources.org/glossary/</loc>
+<lastmod>2025-04-18T17:36:40+08:00</lastmod>
 <image:image>
-<image:loc>https://llmresources.org/media/posts/16/glossary.jpg</image:loc>
-<image:title><![CDATA[terminology-list | 术语表]]></image:title>
+<image:loc>https://llmresources.org/media/posts/16/glossary-2.jpg</image:loc>
+<image:title><![CDATA[Glossary | 术语表]]></image:title>
 </image:image>
 </url>
 <url>
 <loc>https://llmresources.org/what-is-generative-ai/</loc>
-<lastmod>2025-04-17T10:38:00+08:00</lastmod>
+<lastmod>2025-04-18T17:29:07+08:00</lastmod>
 <image:image>
 <image:loc>https://llmresources.org/media/posts/13/ch01-cover.jpg</image:loc>
 <image:title><![CDATA[人工智能]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://llmresources.org/media/posts/13/01-Shi-Me-Shi-Sheng-Cheng-Shi-Ren-Gong-Zhi-Hui-images-1.jpg</image:loc>
+<image:loc>https://llmresources.org/media/posts/13/chapter01-2.jpg</image:loc>
 <image:title><![CDATA[人工智能]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://llmresources.org/media/posts/13/01-Shi-Me-Shi-Sheng-Cheng-Shi-Ren-Gong-Zhi-Hui-images-2.jpg</image:loc>
+<image:loc>https://llmresources.org/media/posts/13/chapter01-3.jpg</image:loc>
 <image:title><![CDATA[GenAI | 生成式人工智能]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://llmresources.org/media/posts/13/01-Shi-Me-Shi-Sheng-Cheng-Shi-Ren-Gong-Zhi-Hui-images-3.jpg</image:loc>
+<image:loc>https://llmresources.org/media/posts/13/chapter01-4.jpg</image:loc>
 <image:title><![CDATA[GenAI | 生成式人工智能的特点]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://llmresources.org/media/posts/13/01-Shi-Me-Shi-Sheng-Cheng-Shi-Ren-Gong-Zhi-Hui-images-4.jpg</image:loc>
+<image:loc>https://llmresources.org/media/posts/13/chapter01-5.jpg</image:loc>
 <image:title><![CDATA[GenAI | 生成式人工智能 | 分类 | Classification]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://llmresources.org/media/posts/13/01-Shi-Me-Shi-Sheng-Cheng-Shi-Ren-Gong-Zhi-Hui-images-5.jpg</image:loc>
+<image:loc>https://llmresources.org/media/posts/13/chapter01-6.jpg</image:loc>
 <image:title><![CDATA[人工智能 vs 生成式人工智能]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://llmresources.org/media/posts/13/01-Shi-Me-Shi-Sheng-Cheng-Shi-Ren-Gong-Zhi-Hui-images-6.jpg</image:loc>
+<image:loc>https://llmresources.org/media/posts/13/chapter01-7.jpg</image:loc>
 <image:title><![CDATA[Machine Learning | 机器学习]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://llmresources.org/media/posts/13/01-Shi-Me-Shi-Sheng-Cheng-Shi-Ren-Gong-Zhi-Hui-images-7.jpg</image:loc>
+<image:loc>https://llmresources.org/media/posts/13/chapter01-8.jpg</image:loc>
 <image:title><![CDATA[Machine Learning | Training | Inference | 训练 | 推理]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://llmresources.org/media/posts/13/01-Shi-Me-Shi-Sheng-Cheng-Shi-Ren-Gong-Zhi-Hui-images-8.jpg</image:loc>
+<image:loc>https://llmresources.org/media/posts/13/chapter01-9.jpg</image:loc>
 <image:title><![CDATA[Deep Learning | 深度学习]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://llmresources.org/media/posts/13/01-Shi-Me-Shi-Sheng-Cheng-Shi-Ren-Gong-Zhi-Hui-images-9.jpg</image:loc>
+<image:loc>https://llmresources.org/media/posts/13/chapter01-10.jpg</image:loc>
 <image:title><![CDATA[(生成式)人工智能与机器学习的关系]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://llmresources.org/media/posts/13/01-Shi-Me-Shi-Sheng-Cheng-Shi-Ren-Gong-Zhi-Hui-images-10.jpg</image:loc>
+<image:loc>https://llmresources.org/media/posts/13/chapter01-11.jpg</image:loc>
 <image:title><![CDATA[简化版的概念理解]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://llmresources.org/media/posts/13/01-Shi-Me-Shi-Sheng-Cheng-Shi-Ren-Gong-Zhi-Hui-images-11.jpg</image:loc>
+<image:loc>https://llmresources.org/media/posts/13/chapter01-12.jpg</image:loc>
 <image:title><![CDATA[Transformer ]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://llmresources.org/media/posts/13/01-Shi-Me-Shi-Sheng-Cheng-Shi-Ren-Gong-Zhi-Hui-images-12.jpg</image:loc>
+<image:loc>https://llmresources.org/media/posts/13/chapter01-13.jpg</image:loc>
 <image:title><![CDATA[大模型的输入与输出]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://llmresources.org/media/posts/13/01-Shi-Me-Shi-Sheng-Cheng-Shi-Ren-Gong-Zhi-Hui-images-13.jpg</image:loc>
+<image:loc>https://llmresources.org/media/posts/13/chapter01-14.jpg</image:loc>
 <image:title><![CDATA[AI 画图也是函数求解的过程]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://llmresources.org/media/posts/13/01-Shi-Me-Shi-Sheng-Cheng-Shi-Ren-Gong-Zhi-Hui-images-14.jpg</image:loc>
+<image:loc>https://llmresources.org/media/posts/13/chapter01-15.jpg</image:loc>
 <image:title><![CDATA[生成式人工智能的进步]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://llmresources.org/media/posts/13/01-Shi-Me-Shi-Sheng-Cheng-Shi-Ren-Gong-Zhi-Hui-images-15.jpg</image:loc>
+<image:loc>https://llmresources.org/media/posts/13/chapter01-16.jpg</image:loc>
 <image:title><![CDATA[生成式人工智能的重点是「创造」]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://llmresources.org/media/posts/13/01-Shi-Me-Shi-Sheng-Cheng-Shi-Ren-Gong-Zhi-Hui-images-16.jpg</image:loc>
+<image:loc>https://llmresources.org/media/posts/13/chapter01-17.jpg</image:loc>
 <image:title><![CDATA[大模型完成任务靠的是「文字接龙」]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://llmresources.org/media/posts/13/01-Shi-Me-Shi-Sheng-Cheng-Shi-Ren-Gong-Zhi-Hui-images-17.jpg</image:loc>
+<image:loc>https://llmresources.org/media/posts/13/chapter01-18.jpg</image:loc>
 <image:title><![CDATA[语言模型]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://llmresources.org/media/posts/13/01-Shi-Me-Shi-Sheng-Cheng-Shi-Ren-Gong-Zhi-Hui-images-18.jpg</image:loc>
+<image:loc>https://llmresources.org/media/posts/13/chapter01-19.jpg</image:loc>
 <image:title><![CDATA[Autoregressive Generation | 自回归生成]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://llmresources.org/media/posts/13/01-Shi-Me-Shi-Sheng-Cheng-Shi-Ren-Gong-Zhi-Hui-images-19.jpg</image:loc>
+<image:loc>https://llmresources.org/media/posts/13/chapter01-20.jpg</image:loc>
 <image:title><![CDATA[生成图像的过程也是用 Autoregressive Generation]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://llmresources.org/media/posts/13/01-Shi-Me-Shi-Sheng-Cheng-Shi-Ren-Gong-Zhi-Hui-images-20.jpg</image:loc>
+<image:loc>https://llmresources.org/media/posts/13/chapter01-21.jpg</image:loc>
 <image:title><![CDATA[生成式人工智能由来已久]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://llmresources.org/media/posts/13/01-Shi-Me-Shi-Sheng-Cheng-Shi-Ren-Gong-Zhi-Hui-images-21.jpg</image:loc>
+<image:loc>https://llmresources.org/media/posts/13/chapter01-22.jpg</image:loc>
 <image:title><![CDATA[谷歌翻译也是一种生成式人工智能]]></image:title>
 </image:image>
 </url>
