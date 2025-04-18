@@ -3,7 +3,7 @@
     <title>llmresources</title>
     <link href="https://llmresources.org/feed.xml" rel="self" />
     <link href="https://llmresources.org" />
-    <updated>2025-04-18T21:21:46+08:00</updated>
+    <updated>2025-04-18T21:51:43+08:00</updated>
     <author>
         <name>Paul Lin</name>
     </author>
@@ -113,7 +113,7 @@
                 <![CDATA[
                     
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://llmresources.org/media/posts/16/glossary.webp" height="600" width="900" alt="Glossary | 术语表"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/16/responsive/glossary-xs.webp 300w ,https://llmresources.org/media/posts/16/responsive/glossary-sm.webp 480w ,https://llmresources.org/media/posts/16/responsive/glossary-md.webp 768w">
+      <img loading="lazy" src="https://llmresources.org/media/posts/16/Glossary.webp" height="600" width="900" alt="Glossary | 术语表"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/16/responsive/Glossary-xs.webp 300w ,https://llmresources.org/media/posts/16/responsive/Glossary-sm.webp 480w ,https://llmresources.org/media/posts/16/responsive/Glossary-md.webp 768w">
       <figcaption>图片来源：freepik.com</figcaption>
     </figure>
 
@@ -131,7 +131,7 @@
             <![CDATA[
                 
     <figure class="post__image post__image--center">
-      <img decoding="async" loading="lazy" src="https://llmresources.org/media/posts/16/glossary.webp" height="600" width="900" alt="Glossary | 术语表"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/16/responsive/glossary-xs.webp 300w ,https://llmresources.org/media/posts/16/responsive/glossary-sm.webp 480w ,https://llmresources.org/media/posts/16/responsive/glossary-md.webp 768w">
+      <img decoding="async" loading="lazy" src="https://llmresources.org/media/posts/16/Glossary.webp" height="600" width="900" alt="Glossary | 术语表"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/16/responsive/Glossary-xs.webp 300w ,https://llmresources.org/media/posts/16/responsive/Glossary-sm.webp 480w ,https://llmresources.org/media/posts/16/responsive/Glossary-md.webp 768w">
       <figcaption>图片来源：freepik.com</figcaption>
     </figure>
 
