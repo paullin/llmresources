@@ -5,12 +5,24 @@
 <loc>https://llmresources.org/</loc>
 </url>
 <url>
-<loc>https://llmresources.org/can-kao-lun-wen/</loc>
-<lastmod>2025-04-22T19:00:49+08:00</lastmod>
+<loc>https://llmresources.org/all-highlights/</loc>
+<lastmod>2025-04-22T23:36:31+08:00</lastmod>
+<image:image>
+<image:loc>https://llmresources.org/media/posts/21/gallery/highlight-01.webp</image:loc>
+<image:title><![CDATA[使用 chatGPT 的正确方式]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://llmresources.org/media/posts/21/gallery/highlight-02.webp</image:loc>
+<image:title><![CDATA[提示工程是一种艺术]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://llmresources.org/media/posts/21/gallery/highlight-03.webp</image:loc>
+<image:title><![CDATA[ 大模型微调会有意想不到的后果]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://llmresources.org/genai-tutorial/</loc>
-<lastmod>2025-04-22T19:01:47+08:00</lastmod>
+<lastmod>2025-04-22T23:33:05+08:00</lastmod>
 <image:image>
 <image:loc>https://llmresources.org/media/posts/17/GenAi-tutorial-4.webp</image:loc>
 <image:title><![CDATA[生成式 AI]]></image:title>
@@ -18,7 +30,7 @@
 </url>
 <url>
 <loc>https://llmresources.org/glossary/</loc>
-<lastmod>2025-04-22T18:59:56+08:00</lastmod>
+<lastmod>2025-04-22T23:07:05+08:00</lastmod>
 <image:image>
 <image:loc>https://llmresources.org/media/posts/16/Glossary.webp</image:loc>
 <image:title><![CDATA[Glossary | 术语表]]></image:title>
@@ -26,7 +38,7 @@
 </url>
 <url>
 <loc>https://llmresources.org/what-is-generative-ai/</loc>
-<lastmod>2025-04-22T19:02:12+08:00</lastmod>
+<lastmod>2025-04-22T19:50:38+08:00</lastmod>
 <image:image>
 <image:loc>https://llmresources.org/media/posts/13/cover.webp</image:loc>
 <image:title><![CDATA[人工智能]]></image:title>
@@ -118,7 +130,7 @@
 </url>
 <url>
 <loc>https://llmresources.org/what-makes-todays-generative-ai-so-powerful/</loc>
-<lastmod>2025-04-22T19:02:42+08:00</lastmod>
+<lastmod>2025-04-22T23:33:12+08:00</lastmod>
 <image:image>
 <image:loc>https://llmresources.org/media/posts/18/cover.webp</image:loc>
 <image:title><![CDATA[生成式人工智能 | GenAI]]></image:title>

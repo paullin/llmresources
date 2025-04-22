@@ -3,25 +3,60 @@
     <title>llmresources</title>
     <link href="https://llmresources.org/feed.xml" rel="self" />
     <link href="https://llmresources.org" />
-    <updated>2025-04-22T19:02:42+08:00</updated>
+    <updated>2025-04-22T23:36:31+08:00</updated>
     <author>
         <name>Paul Lin</name>
     </author>
     <id>https://llmresources.org</id>
 
     <entry>
-        <title>参考论文</title>
+        <title>精华观点</title>
         <author>
             <name>Paul Lin</name>
         </author>
-        <link href="https://llmresources.org/can-kao-lun-wen/"/>
-        <id>https://llmresources.org/can-kao-lun-wen/</id>
+        <link href="https://llmresources.org/all-highlights/"/>
+        <id>https://llmresources.org/all-highlights/</id>
+            <category term="精华观点"/>
 
-        <updated>2025-04-22T19:00:49+08:00</updated>
-            <summary></summary>
+        <updated>2025-04-22T23:10:43+08:00</updated>
+            <summary>
+                <![CDATA[
+                    第二节 今天的生成式人工智能厉害在哪里？ 使用 chatGPT 的正确方式 提示工程 | Prompt Engineering 微调 | Fine turning 阅读更多
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                 
+    <h2 id="di-er-jie-jin-tian-de-sheng-cheng-shi-ren-gong-zhi-neng-li-hai-zai-na-li">
+      第二节 今天的生成式人工智能厉害在哪里？
+    </h2>
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://llmresources.org/media/posts/21/gallery/highlight-01.webp" data-size="660x728">
+        <img decoding="async" loading="lazy" src="https://llmresources.org/media/posts/21/gallery/highlight-01-thumbnail.webp" height="728" width="660" alt="使用 chatGPT 的正确方式" >
+      </a>
+      <figcaption>使用 chatGPT 的正确方式</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://llmresources.org/media/posts/21/gallery/highlight-02.webp" data-size="660x728">
+        <img decoding="async" loading="lazy" src="https://llmresources.org/media/posts/21/gallery/highlight-02-thumbnail.webp" height="728" width="660" alt="提示工程是一种艺术" >
+      </a>
+      <figcaption> 提示工程 | Prompt Engineering</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://llmresources.org/media/posts/21/gallery/highlight-03.webp" data-size="660x822">
+        <img decoding="async" loading="lazy" src="https://llmresources.org/media/posts/21/gallery/highlight-03-thumbnail.webp" height="822" width="660" alt=" 大模型微调会有意想不到的后果" >
+      </a>
+      <figcaption>微调 | Fine turning</figcaption>
+    </figure>
+    </div>
+  </div>
+
+  <p>
+    <a href="https://llmresources.org/what-makes-todays-generative-ai-so-powerful/" target="_blank">阅读更多</a>
+  </p>
+<hr class="separator separator--dots" />
+
   <p>
     
   </p>
@@ -392,11 +427,7 @@
   </p>
 
   <p>
-    然而，如今的生成式人工智能并非从既定选项中选择答案，它们的答案可以是任何内容。
-  </p>
-
-  <p>
-    这就引发了一个问题，我们不得不担心这些深层人工智能可能会说出有害的内容。例如，它们会不会不小心说出脏话，会不会不小心说出抄袭自其他地方的内容，或者会不会不小心说出带有歧视性的言论。<br><br>当然，如今的这些语言模型在避免说脏话、抄袭和歧视方面都具有一定程度的防御能力。
+    然而，如今的生成式人工智能并非从既定选项中选择答案，它们的答案可以是任何内容。这就引发了一个问题，我们不得不担心这些深层人工智能可能会说出有害的内容。例如，它们会不会不小心说出脏话，会不会不小心说出抄袭自其他地方的内容，或者会不会不小心说出带有歧视性的言论。<br><br>当然，如今的这些语言模型在避免说脏话、抄袭和歧视方面都具有一定程度的防御能力。
   </p>
 
   <p>
@@ -460,7 +491,7 @@
     </figure>
 
   <p>
-    第一个思路是，虽然我无法改变模型，但我可以改变自己。
+    <mark>第一个思路是，虽然我无法改变模型，但我可以改变自己。</mark>
   </p>
 
   <p>
@@ -497,7 +528,7 @@
   </p>
 
   <p>
-    如果要更拟人化地表达，Prompt Engineering 可以被称为人类与人工智能沟通的艺术。我们在下一堂课中会与大家分享这门艺术。
+    如果要更拟人化地表达，<mark>Prompt Engineering 可以被称为人类与人工智能沟通的艺术。</mark>我们在下一堂课中会与大家分享这门艺术。
   </p>
 
     <figure class="post__image post__image--center">
@@ -623,6 +654,10 @@
   <p>
     <a href="https://llmresources.org/what-is-generative-ai/" target="_blank">第一节 生成式 AI 是什么？</a>
   </p>
+
+  <p>
+    <a href="https://llmresources.org/what-makes-todays-generative-ai-so-powerful/" target="_blank">第二节 今天的生成式人工智能厉害在哪里？</a>
+  </p>
 <hr class="separator separator--dots" />
 
   <p>
@@ -651,7 +686,7 @@
     </h2>
 
   <ul>
-    <li><a href="https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0223/0223_intro_gai.pdf"  class="extlink extlink-icon-1"  rel="nofollow noopener">第一节课课件</a></li>
+    <li><a href="https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring-course-data/0223/0223_intro_gai.pdf"  class="extlink extlink-icon-1"  rel="nofollow noopener">第一节课课件</a></li><li><a href="https://drive.google.com/file/d/1Ru6DUX8KrSzCvn2DN1-YluTyx5rw3QD3/view" target="_blank"  class="extlink extlink-icon-1"  rel="nofollow noopener">第二节课课件</a></li>
   </ul>
             ]]>
         </content>
