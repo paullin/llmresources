@@ -3,12 +3,31 @@
     <title>llmresources</title>
     <link href="https://llmresources.org/feed.xml" rel="self" />
     <link href="https://llmresources.org" />
-    <updated>2025-04-22T18:54:04+08:00</updated>
+    <updated>2025-04-22T19:02:42+08:00</updated>
     <author>
         <name>Paul Lin</name>
     </author>
     <id>https://llmresources.org</id>
 
+    <entry>
+        <title>参考论文</title>
+        <author>
+            <name>Paul Lin</name>
+        </author>
+        <link href="https://llmresources.org/can-kao-lun-wen/"/>
+        <id>https://llmresources.org/can-kao-lun-wen/</id>
+
+        <updated>2025-04-22T19:00:49+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>今天的生成式人工智能厉害在哪里？</title>
         <author>
@@ -23,8 +42,8 @@
                 <![CDATA[
                     
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://llmresources.org/media/posts/18/cover.webp" height="1000" width="1000" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/18/responsive/cover-xs.webp 300w ,https://llmresources.org/media/posts/18/responsive/cover-sm.webp 480w ,https://llmresources.org/media/posts/18/responsive/cover-md.webp 768w">
-      
+      <img loading="lazy" src="https://llmresources.org/media/posts/18/cover.webp" height="1000" width="1000" alt="生成式人工智能 | GenAI"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/18/responsive/cover-xs.webp 300w ,https://llmresources.org/media/posts/18/responsive/cover-sm.webp 480w ,https://llmresources.org/media/posts/18/responsive/cover-md.webp 768w">
+      <figcaption>生成式人工智能</figcaption>
     </figure>
 
   <p>
@@ -37,8 +56,8 @@
             <![CDATA[
                 
     <figure class="post__image post__image--center">
-      <img decoding="async" loading="lazy" src="https://llmresources.org/media/posts/18/cover.webp" height="1000" width="1000" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/18/responsive/cover-xs.webp 300w ,https://llmresources.org/media/posts/18/responsive/cover-sm.webp 480w ,https://llmresources.org/media/posts/18/responsive/cover-md.webp 768w">
-      
+      <img decoding="async" loading="lazy" src="https://llmresources.org/media/posts/18/cover.webp" height="1000" width="1000" alt="生成式人工智能 | GenAI"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://llmresources.org/media/posts/18/responsive/cover-xs.webp 300w ,https://llmresources.org/media/posts/18/responsive/cover-sm.webp 480w ,https://llmresources.org/media/posts/18/responsive/cover-md.webp 768w">
+      <figcaption>生成式人工智能</figcaption>
     </figure>
 
   <p>
@@ -532,6 +551,10 @@
   <ul>
     <li>Prompt Engineering</li>
   </ul>
+
+  <p>
+    请访问<a href="https://llmresources.org/glossary/">《术语表》</a>页面。
+  </p>
 
     <h2 id="ke-jian-xia-zai">
       课件下载
@@ -1161,7 +1184,11 @@
     </h2>
 
   <p>
-    - 人工智能（Artificial Intelligence, AI）<br>- 生成式人工智能（Generative AI）<br>- 机器学习（Machine Learning）<br>- 深度学习（Deep Learning）<br>- 类神经网络（Neural Network）<br>- 模型（Model）<br>- 参数（Parameter）<br>- 训练（Training，Learning）<br>- 测试（Testing，Inference）<br>- 分类（Classification）<br>- 回归（Regression）<br>- 语言模型（Language Model）<br>- 生成策略（Generation Strategy）<br>- 自回归生成（Autoregressive Generation）<br>- Transformer（类神经网络的一种）&nbsp;<br>
+    - 人工智能（Artificial Intelligence, AI）<br>- 生成式人工智能（Generative AI）<br>- 机器学习（Machine Learning）<br>- 深度学习（Deep Learning）<br>- 类神经网络（Neural Network）<br>- 模型（Model）<br>- 参数（Parameter）<br>- 训练（Training，Learning）<br>- 测试（Testing，Inference）<br>- 分类（Classification）<br>- 回归（Regression）<br>- 语言模型（Language Model）<br>- 生成策略（Generation Strategy）<br>- 自回归生成（Autoregressive Generation）<br>- Transformer（类神经网络的一种）&nbsp;
+  </p>
+
+  <p>
+    请访问<a href="https://llmresources.org/glossary/" target="_blank">《术语表》</a>页面。
   </p>
 
     <h2 id="ke-jian-xia-zai">
