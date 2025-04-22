@@ -3,7 +3,7 @@
     <title>llmresources</title>
     <link href="https://llmresources.org/feed.xml" rel="self" />
     <link href="https://llmresources.org" />
-    <updated>2025-04-22T23:36:31+08:00</updated>
+    <updated>2025-04-22T23:44:51+08:00</updated>
     <author>
         <name>Paul Lin</name>
     </author>
@@ -21,15 +21,50 @@
         <updated>2025-04-22T23:10:43+08:00</updated>
             <summary>
                 <![CDATA[
-                    第二节 今天的生成式人工智能厉害在哪里？ 使用 chatGPT 的正确方式 提示工程 | Prompt Engineering 微调 | Fine turning 阅读更多
+                    
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://llmresources.org/media/posts/21/gallery/20943463.webp" data-size="3865x3865">
+        <img loading="lazy" src="https://llmresources.org/media/posts/21/gallery/20943463-thumbnail.webp" height="720" width="720" alt="全站精华观点" >
+      </a>
+      <figcaption>highlight</figcaption>
+    </figure>
+    </div>
+  </div>
+
+  <p>
+    摘要：本文汇总了全站文章、教程中的精华观点，供读者快速了解每篇文章的核心思想
+  </p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
-    <h2 id="di-er-jie-jin-tian-de-sheng-cheng-shi-ren-gong-zhi-neng-li-hai-zai-na-li">
-      第二节 今天的生成式人工智能厉害在哪里？
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://llmresources.org/media/posts/21/gallery/20943463.webp" data-size="3865x3865">
+        <img decoding="async" loading="lazy" src="https://llmresources.org/media/posts/21/gallery/20943463-thumbnail.webp" height="720" width="720" alt="全站精华观点" >
+      </a>
+      <figcaption>highlight</figcaption>
+    </figure>
+    </div>
+  </div>
+
+  <p>
+    摘要：本文汇总了全站文章、教程中的精华观点，供读者快速了解每篇文章的核心思想
+  </p>
+
+
+    <h2 id="xi-lie-ke-chengsheng-cheng-shi-ai-dao-lun">
+      系列课程：生成式 AI 导论
     </h2>
+
+  <p>
+    
+  </p>
 
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
